@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "blipp": "2",
+    "cryptiles": "^4.1.2",
     "dotenv": "^8.1.0",
     "hapi": "16",
     "joi": "^14.3.1",
